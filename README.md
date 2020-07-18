@@ -1,6 +1,6 @@
-# Influence Maximization in Social Networks with Limited Access
-+ Proposed a two-stage seeding model to overcome limited access of nodes from a social network in commercial advertising, utilizing *friendship paradox* to reach crucial nodes through trivial seeds
-+ Transformed non-adaptive procedures into adaptive ones for maximizing marginal benefits
+# Neighborhood Matters: Influence Maximization in Social Networks with Limited Access
++ Proposed a two-stage seeding model to overcome the access limitation commercial advertising, utilizing *friendship paradox* to reach crucial nodes through trivial seeds. Notably, we mathematically prove the existence of set-wise friendship paradox, providing theoretical fundation for our seeding model.
++ Proposed both non-adaptive and adaptive algorithms to maximize the influence spread. Specifically, in the non-adaptive case, a two-stage coordinate descent framework is designed to decide the discount allocation. In the adaptive case, a series of algorithms are devised with performance guarantee. Notably, our best algorithm achieves greater approximation ratio than previous work, even under our harsher settings.
 + Implemented the proposed algorithms along with previous baselines. Adaptive approaches generally extend diffusion coverage by 20% compared with non-adaptive counterparts
 + Switched to *C#* after completing the *Python* version. Improved data structures reduced mean memory consumption by 40% and accelerated the same algorithms by 10 times
 
