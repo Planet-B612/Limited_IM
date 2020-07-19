@@ -43,7 +43,7 @@ infile.close()
 #     temp = infile.readline()
 # infile.close()
 # outfile.close()
-outfile = open(files[file]+'_cu.txt', 'w')
+outfile = open(files[file]+'_typen.txt', 'w')
 for i in range(v):
     temp = random()
     if temp < 0.15:
