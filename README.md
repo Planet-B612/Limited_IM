@@ -4,7 +4,7 @@
 + Implemented the proposed algorithms along with previous baselines. Adaptive approaches generally extend diffusion coverage by 20% compared with non-adaptive counterparts
 + Switched to *C#* after completing the *Python* version. Improved data structures reduced mean memory consumption by 40% and accelerated the same algorithms by 10 times
 
-![](./results/Visio-two-stage_seeding_model.jpg)
+![]<div align=center>(./results/Visio-two-stage_seeding_model.jpg)
 
 ---
 Datasets of social networks are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html):
