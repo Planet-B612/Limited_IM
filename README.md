@@ -4,7 +4,7 @@
 + Implemented the proposed algorithms along with previous baselines. Adaptive approaches generally extend diffusion coverage by 20% compared with non-adaptive counterparts
 + Switched to *C#* after completing the *Python* version. Improved data structures reduced mean memory consumption by 40% and accelerated the same algorithms by 10 times
 
-<div align=center><img src="https://github.com/Legend-yd/MyDawn/blob/master/20171223205540585.png" width="300" height="450" /></div>
+<div align=center><img src=./results/Visio-two-stage_seeding_model.jpg width="300" height="450" /></div>
 ![ad](./results/Visio-two-stage_seeding_model.jpg)
 
 ---
