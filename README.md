@@ -12,7 +12,7 @@
 
 
 ---
-Datasets of social networks are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html):
+Four datasets are included for test, which are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html), covering networks that scales from thousands of nodes to millions of nodes.
 
 1. [Wikipedia vote network](http://snap.stanford.edu/data/wiki-Vote.html) (7115 nodes, 103689 edges)
 2. [Condense Matter collaboration network](http://snap.stanford.edu/data/ca-CondMat.html) (23133 nodes, 93497 edges)
