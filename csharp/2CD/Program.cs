@@ -9,7 +9,7 @@ namespace InfluenceMaximization
 {
     class MainClass
     {
-        public static string filepath = "/home/sjtuiiot/wcy/im/soc-LiveJournal1";
+        public static string filepath = "/home/sjtuiiot/wcy/im/Wiki-Vote";
         //public static string filepath = "D:/iiot/csharp/im/Wiki-Vote";
         public static void Main(string[] args)
         {
