@@ -7,6 +7,10 @@
 <div align=center><img src=./results/Visio-two-stage_seeding_model.jpg width="450" height="415" /></div>
 <!-- ![ad](./results/Visio-two-stage_seeding_model.jpg) -->
 
+## Running Environment
++ We ran the algorithms on a Linux x64 server (Intel Xeon E5-2650 v2 @2.6Ghz, 128GB RAM) with Mono, showing that the implementations are executable and produce corresponding results.
+
+
 ---
 Datasets of social networks are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html):
 
